@@ -4,4 +4,6 @@ Files used for the *Which Webstaurant?* Spark AR filter. This filter was made in
 
 Filter accessible on [Instagram](https://www.instagram.com/a/r/?effect_id=472799526995455).
 
+![Webstaurant filter demo](demo.gif)
+
 Subfolder `Webstaurant` contains all the final project files.
