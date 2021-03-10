@@ -1,1 +1,28 @@
-{"include":["*.js"],"compilerOptions":{"baseUrl":"/private/var/folders/p6/0fjn55w16ns6zlrs7x48873c0000gn/T/1937789a5a3345e2a42049d5e87dcea8a7595/skylight-typedefs","allowJs":true,"checkJs":true,"outDir":"/private/var/folders/p6/0fjn55w16ns6zlrs7x48873c0000gn/T/1937789a5a3345e2a42049d5e87dcea8a7595/skylight-typedefs/out-dir"}}
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "baseUrl": "/var/folders/p6/0fjn55w16ns6zlrs7x48873c0000gn/T/7fc0-8dec-6d4e-5f77/1937789a5a3345e2a42049d5e87dcea8a7595",
+    "checkJs": true,
+    "esModuleInterop": true,
+    "lib": [
+      "ES2019"
+    ],
+    "outDir": "/var/folders/p6/0fjn55w16ns6zlrs7x48873c0000gn/T/7fc0-8dec-6d4e-5f77/1937789a5a3345e2a42049d5e87dcea8a7595/out-dir",
+    "paths": {
+      "*": [
+        "skylight-typedefs/*",
+        "skylight-node_modules/*"
+      ]
+    },
+    "typeRoots": [
+      "/var/folders/p6/0fjn55w16ns6zlrs7x48873c0000gn/T/7fc0-8dec-6d4e-5f77/1937789a5a3345e2a42049d5e87dcea8a7595/skylight-node_modules/@types"
+    ],
+    "types": [
+      "node"
+    ]
+  },
+  "include": [
+    "./**/*.js",
+    "./**/*.ts"
+  ]
+}
